@@ -6,6 +6,7 @@ Adders are digital circuits that perform arithmetic addition operations. They ar
 <h2># Content [ADDERS]:</h2>
 
 **1. <i>4-Bit Carry Propagate Adder</i>**
+
   Basic adder that propagates carry from one bit to the next.
   
   **Operation:**
@@ -21,6 +22,7 @@ Adders are digital circuits that perform arithmetic addition operations. They ar
    ![Screenshot_(278) 2](https://github.com/user-attachments/assets/6201b1a6-f967-4507-b122-3541ed7c9c9f)
 
 **2. <i>8-Bit Carry Look-Ahead Adder</i>** 
+
   A Carry Look-Ahead Adder (CLA) is a digital circuit that uses a separate carry generation network to predict and generate carries in advance, reducing propagation delay and increasing speed.
   
   **Operation:**
@@ -36,6 +38,7 @@ Adders are digital circuits that perform arithmetic addition operations. They ar
    ![Screenshot_(281) 1](https://github.com/user-attachments/assets/60380ea3-a6e3-4abc-9a90-ea3295a39aa4)
 
 **3. <i>8-Bit Carry Save Adder ( Multi Operand)</i>**
+
   Adder that saves carry bits instead of propagating them.
 
   **Operation:**
@@ -51,6 +54,7 @@ Adders are digital circuits that perform arithmetic addition operations. They ar
    ![Screenshot_(283) 1](https://github.com/user-attachments/assets/30ed8aa1-1cf9-4510-a6d7-a7c38ce24111)
 
 **4. <i>8-Bit Carry Bypass ( Skip ) Adder</i>** 
+
   Adder that bypasses carry propagation for certain bits.
   
    **Operation:**
@@ -66,6 +70,7 @@ Adders are digital circuits that perform arithmetic addition operations. They ar
    ![Screenshot_(285) 2](https://github.com/user-attachments/assets/08c47fa5-f34e-4e3e-9b01-6b366bfed628)
 
 **5. <i>8-Bit Conditional Sum Adder</i>** 
+
   Adder that computes two possible sums and selects the correct one based on the carry.
   
    **Operation:**
